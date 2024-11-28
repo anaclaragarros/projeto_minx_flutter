@@ -1,16 +1,19 @@
 # projeto_minx_flutter
+<br>
+**Front-end do projeto**:https://github.com/anaclaragarros/project-minx-2<br>
 
-A new Flutter project.
-
+**Tecnologias utilizadas:**<br>
+Flutter<br>
+Dart<br>
+<br>
+Consusmo do backend minx feito em Django
+<br>
 ## Getting Started
+**Requisições**
+<br>
+Buildar no chrome, devido as dependencias de urls das api's apontadas para o servidor local minx.
+<br>
+Para gerar as requisições ao servidor, é necessário:<br>
+* Inicializar o servidor do projeto [https://github.com/anaclaragarros/project-minx-2]
+* colocar no [additional run args] a flag --web-browser-flag "--disable-web-security"
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
